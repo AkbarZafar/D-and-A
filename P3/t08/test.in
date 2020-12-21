@@ -1,0 +1,14 @@
+n 0
+n 1
+degree 0
+degree 1
+edge_count
+mst
+i 0;1;5.5
+edge_count
+d 0;1
+edge_count
+mst
+clear
+edge_count
+exit

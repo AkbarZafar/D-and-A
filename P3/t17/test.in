@@ -1,0 +1,43 @@
+n 3
+i 0;0;1
+i 1;1;1
+i 2;2;1
+degree 0
+degree 1
+degree 2
+edge_count
+mst
+clear
+edge_count
+mst
+i 0;0;100.00
+i 1;1;100.00
+i 2;2;100.00
+i 0;1;50.5
+degree 0
+degree 1
+degree 2
+edge_count
+mst
+i 1;2;100.05
+degree 0
+degree 1
+degree 2
+edge_count
+mst
+d 1;2
+degree 0
+degree 1
+degree 2
+edge_count
+mst
+i 0;2;100.05
+degree 0
+degree 1
+degree 2
+edge_count
+mst
+clear
+edge_count
+mst
+exit
